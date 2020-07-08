@@ -17,5 +17,6 @@
 
 
 
-注：contracts文件下是合约文件，compile.js读取该目录的sol文件.
+注：contracts文件下是合约文件，compile.js读取该目录的sol文件
+
 deploy.js 的netIp根据自己部署的实际网络填写
