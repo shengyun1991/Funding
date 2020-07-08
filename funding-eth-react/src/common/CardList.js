@@ -30,7 +30,7 @@ const CardFunding = (props) => {
 
     return (
         <Card onClick={() => onCardClick && onCardClick(detail2)}>
-            <Image src='/images/000.jpg'/>
+            <Image src='/images/daniel.jpg'/>
             <Card.Content>
                 <Card.Header>{projectName}</Card.Header>
                 <Card.Meta>
